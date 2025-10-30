@@ -4,3 +4,6 @@ y=a*b
 
 Division
 z=a/b
+
+Percentage
+%
