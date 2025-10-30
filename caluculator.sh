@@ -7,3 +7,5 @@ z=a/b
 
 Percentage
 %
+#Substraction
+a-b
